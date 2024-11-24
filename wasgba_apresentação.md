@@ -84,7 +84,9 @@ Este repositório documenta os cursos concluídos na plataforma DIO.me, abordand
 - **Trabalhando em Equipes Ágeis**  
     📅 Data de Conclusão: 09/11/2024  
 - **Princípios do Git e GitHub**  
-    📅 Data de Conclusão: 09/11/2024  
+    📅 Data de Conclusão: 09/11/2024 
+-**Versionamento de Código com Git e GitHub**
+    📅 Data de Conclusão: 23/11/2024 
 
 ---
 
