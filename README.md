@@ -1,115 +1,103 @@
-# Git de Wasgba  
-## Walterlan A. dos Santos  
+# Olá, eu sou o Walterlan (Wasgba) 👋
 
-### Olá! 👋 Bem-vindo ao meu perfil!
-Sou Walterlan, também conhecido como Wasgba, formado em Engenharia Civil, entusiasta da informática e um aprendiz dedicado de programação. Apaixonado por explorar o mundo da tecnologia, estou sempre em busca de aprender, construir soluções inovadoras e compartilhar conhecimento com a comunidade. Atualmente, estudo na plataforma Dio.me para expandir minhas habilidades técnicas.
-
----
-
-## 🚀 Sobre Mim
-- 🔭 **Atualmente**: Trabalhando em projetos de automação no Linux.
-- 🌱 **Explorando**: Novas tecnologias como Python, JavaScript, HTML e CSS.
-- 🎯 **Objetivo**: Contribuir com soluções que impactem positivamente a sociedade.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasgba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasgba&layout=compact&theme=dracula"/>
+</div>
 
 ---
 
-## 💡 Interesses  
-- **Programação**: Buscando constantemente novos desafios para aprimorar minhas habilidades.  
-- **Tecnologia e Informática**: Fascinado pelo potencial da tecnologia em resolver problemas e criar novas oportunidades.
+### 🚀 Sobre Mim
+Sou Engenheiro Civil de formação e Policial Militar, atualmente em **transição de carreira para Desenvolvimento Web**. Minha jornada é marcada pela disciplina e pela busca constante por soluções lógicas.
+
+Estou focado em criar aplicações reais, unindo o **Front-end (React)** com a robustez do **Back-end (PHP)**.
+
+- 🔭 **Atualmente trabalhando em**: Sistema de Gestão **Assoft** (React + PHP).
+- 🌱 **Estudando**: Arquitetura de Software e Banco de Dados SQL.
+- 🎯 **Objetivo**: Atuar como Desenvolvedor Full Stack Júnior.
 
 ---
 
-## 📂 Projetos  
-Aqui você encontrará projetos que estou desenvolvendo e aqueles que me inspiram. Estou sempre aberto a colaborações, feedbacks e ideias para crescer como desenvolvedor.
+### 🛠️ Tech Stack & Ferramentas
 
-### 💻 Provisionamento Automático de Servidor Web
-Criei um script para provisionar automaticamente um servidor web.  
-O servidor web, essencial para a comunicação via HTTP e outros protocolos, é responsável por armazenar, processar e entregar páginas da web aos usuários.  
-Este projeto exemplifica como um servidor pode ser configurado de forma eficiente e automatizada, otimizando processos de hospedagem de sites.
+**Front-end**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wasgba-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Wasgba-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Wasgba-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Wasgba-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
 
----
+**Back-end**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wasgba-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Wasgba-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Wasgba-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
 
-## 📚 Certificados e Cursos Realizados - DIO.me  
-Este repositório documenta os cursos concluídos na plataforma DIO.me, abordando temas como Desenvolvimento Front-end, Fundamentos de Linux, e mais. 🚀
-
-### 🏅 Cursos Concluídos
-
-#### 💻 Desenvolvimento Front-end
-- **Introdução ao Desenvolvimento Front-end com a Ri Happy**  
-    📅 Data de Conclusão: 22/11/2024
-- **Fundamentos do CSS**  
-    📅 Data de Conclusão: 22/11/2024
-
-#### 🐧 Formação Linux Fundamentals
-- **Introdução ao Linux**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Conhecendo o Linux Desktop**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Gerenciamento de Pacotes e Discos**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Trabalhando com Usuários, Arquivos e Diretórios**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Copiando Arquivos e Manipulando Processos**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Servidor de Banco de Dados com Linux**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Criando um Servidor Web com Linux**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Servidores de Arquivos com Linux**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Gerenciamento de Discos Linux**  
-    📅 Data de Conclusão: 16/11/2024  
-- **Gerenciando Usuários no Linux**  
-    📅 Data de Conclusão: 15/11/2024  
-- **Acesso Remoto a Máquinas Linux**  
-    📅 Data de Conclusão: 12/11/2024  
-
-#### 📑 Formação HTML Web Developer  
-- **Introdução ao HTML na Prática**  
-    📅 Data de Conclusão: 07/11/2024  
-- **Criando Tabelas com HTML**  
-    📅 Data de Conclusão: 10/11/2024  
-- **Trabalhando com Mídias utilizando HTML**  
-    📅 Data de Conclusão: 09/11/2024  
-- **Trabalhando com Formulários em HTML**  
-    📅 Data de Conclusão: 09/11/2024  
-- **Estruturando seu HTML + Formatações**  
-    📅 Data de Conclusão: 09/11/2024  
-- **Entendendo HTML Semântico**  
-    📅 Data de Conclusão: 10/11/2024  
-- **HTML: Recursos Especiais**  
-    📅 Data de Conclusão: 14/11/2024  
-
-#### 🧠 Soft Skills e Metodologias Ágeis  
-- **Trabalhando em Equipes Ágeis**  
-    📅 Data de Conclusão: 09/11/2024  
-- **Princípios do Git e GitHub**  
-    📅 Data de Conclusão: 09/11/2024
-- **Versionamento de Código com Git e GitHub**
-   
-    📅 Data de Conclusão: 23/11/2024
----
-
-## 🌐 Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/walter-alves-749320319/)  
-- 🐦 [Twitter](https://x.com/Walterlan_was)  
-- 📧 Email: wasgba@live.com  
+**Ferramentas & OS**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wasgba-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Wasgba-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Wasgba-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="Wasgba-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
 ---
 
-## 🛠️ Habilidades
-- **Linguagens**: Python, JavaScript, Bash, HTML, CSS.  
-- **Ferramentas**: Linux, Git.  
+### 📂 Projetos em Destaque
+
+#### 🔹 [Sistema Assoft-PB](#) *(Em desenvolvimento)*
+Aplicação Web para gestão administrativa da Associação dos Oficiais.
+- **Techs:** React.js, PHP, MySQL.
+- **Foco:** CRUD completo, gestão de associados e controle de estoque.
+
+#### 🔹 [Apostila Digital Interativa](#)
+Documentação técnica desenvolvida para consulta rápida de sintaxe PHP.
+- **Techs:** PHP, HTML5, CSS3.
+- **Foco:** Exemplos práticos renderizados em tempo real.
+
+#### 🔹 Provisionamento Automático Web
+Script de automação para servidores Linux.
+- **Techs:** Bash Script, Linux, Apache.
 
 ---
 
-## 🎓 Formação Acadêmica  
-- **Engenharia Civil** - UNINASSAU João Pessoa  
-  📅 Conclusão: 08/07/2020 (10 períodos).  
+### 📚 Certificações (DIO.me)
 
-- **Ensino Médio** - EEEFM Profº José Soares de Carvalho  
-  📅 Data de Inclusão: 2003  
+<details>
+  <summary>⬇️ Clique para ver a lista completa de cursos</summary>
+  
+  <br>
+
+  **🏅 Desenvolvimento Front-end**
+  - Introdução ao Desenvolvimento Front-end com a Ri Happy (11/2024)
+  - Fundamentos do CSS (11/2024)
+  - Formação HTML Web Developer (11/2024)
+
+  **🐧 Linux & Infraestrutura**
+  - Formação Linux Fundamentals (Completa - 11/2024)
+  - Gerenciamento de Pacotes, Discos e Usuários
+  - Criação de Servidores Web e Banco de Dados no Linux
+  - Shell Scripting
+
+  **🧠 Metodologias & Ferramentas**
+  - Git e GitHub: Versionamento de Código
+  - Metodologias Ágeis (Scrum/Kanban)
+</details>
 
 ---
 
-✨ "Tecnologia transforma ideias em soluções." ✨
+### 🌐 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/walter-alves-749320319/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:wasgba@live.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+<p align="center"><i>"Tecnologia transforma ideias em soluções."</i> 🚀</p>
