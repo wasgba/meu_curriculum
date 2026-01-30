@@ -1,10 +1,5 @@
 # Olá, eu sou o Walterlan (Wasgba) 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasgba&show_icons=true&theme=dracula"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasgba&layout=compact&theme=dracula"/>
-</div>
 
 ---
 
